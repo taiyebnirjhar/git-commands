@@ -98,4 +98,4 @@ git push origin name
 git pull
 ```
 
-It updates your local repository with changes made to the remote repository.These are just a few of the many Git commands available. By mastering these commands, you can improve your workflow and better manage your code repository.
+
